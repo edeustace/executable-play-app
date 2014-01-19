@@ -8,4 +8,4 @@
 ## Run
 
     java -jar target/scala-2.10/executable-app-assembly-1.0-SNAPSHOT.jar
-    //outputs: "hello there"
+    //outputs: some xml from one of the views.
