@@ -1,3 +1,4 @@
+
 object CLI extends App {
-  println("hello there") 
+  println(views.html.index("hello world"))
 }
